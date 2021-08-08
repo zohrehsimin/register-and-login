@@ -17,7 +17,7 @@ section{
   direction: ltr;
 }
 .dashboard-landing{
-  width: calc(100% - 26rem);
+  width: 100%;
   height: 100vh;
   background-image: linear-gradient(to left, indianred, darkred);
   display: flex;

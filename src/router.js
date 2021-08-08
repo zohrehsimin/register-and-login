@@ -29,7 +29,7 @@ const router = createRouter({
         },
         {
             path: '/dashboard',
-            components: DashboardLanding
+            component: DashboardLanding
             
         },
 
